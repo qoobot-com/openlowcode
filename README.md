@@ -1,4 +1,4 @@
-# OpenCode 代码自动生成系统
+# OpenLowCode 代码自动生成系统
 
 柏拉图代码自动生成系统 - 基于 JavaFX 的低代码代码生成平台
 

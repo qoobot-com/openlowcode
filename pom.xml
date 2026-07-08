@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bltu</groupId>
-    <artifactId>opencode</artifactId>
+    <artifactId>openlowcode</artifactId>
     <version>1.0.1</version>
 
     <name>bltu</name>
-    <url>http://www.bltu.net</url>
+    <url>http://www.qoobot.com</url>
     <description>柏拉图代码自动生成系统</description>
 
     <properties>

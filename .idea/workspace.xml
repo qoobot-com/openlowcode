@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6e5c5d0-bd54-4764-8f02-1e5784fb16e9" name="更改" comment="fix">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/About.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Connection.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/HistoryConfig.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Index.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetAbstractSQL.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetAssist.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetAttribute.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetCustom.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetCustomProperty.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetMapper.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetRouter.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetService.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetServiceImpl.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetSql.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/SetUnitTest.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/Setting.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/UpdateConnection.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/setEntityAttribute.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FXML/setVueAttribute.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/ConfigDB.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/language/language.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/language/language_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/language/language_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/database.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/instructions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/image/template-set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/Controller.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/Dao.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/Entity.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/MySQLMapper.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/OracleMapper.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/PostgreSQLMapper.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/Service.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/ServiceImpl.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/SqlAssist.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/SqlServerMapper.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/UnitTest.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/Vue.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;qoobot-com&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/qoobot-com/openlowcode.git&quot;,
+    &quot;accountId&quot;: &quot;5415de4d-f004-4096-b10f-a53db0db6890&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="aliyun-gradle-plugin" />
+        <option value="aliyun-spring-plugin" />
+        <option value="aliyun-apache-snapshots" />
+        <option value="aliyun-google" />
+        <option value="aliyun-spring" />
+        <option value="aliyun-grails-core" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3Bidaf1PUK78ChjxDKRyxZ4kCdA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/05workspaces/openlowcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;QooCode&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e6e5c5d0-bd54-4764-8f02-1e5784fb16e9" name="更改" comment="" />
+      <created>1774975889699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774975889699</updated>
+      <workItem from="1775338168977" duration="287000" />
+      <workItem from="1775338484392" duration="108000" />
+      <workItem from="1775338781021" duration="52000" />
+      <workItem from="1775338876711" duration="68000" />
+      <workItem from="1775339138080" duration="88000" />
+      <workItem from="1775339278812" duration="41000" />
+      <workItem from="1775339464088" duration="46000" />
+      <workItem from="1775339755124" duration="41000" />
+      <workItem from="1775339877619" duration="118000" />
+      <workItem from="1775340103763" duration="107000" />
+      <workItem from="1775340413060" duration="72000" />
+      <workItem from="1775340667170" duration="35000" />
+      <workItem from="1775340829073" duration="108000" />
+      <workItem from="1775340986207" duration="28000" />
+      <workItem from="1775341131876" duration="104000" />
+      <workItem from="1775341254421" duration="146000" />
+      <workItem from="1775341418013" duration="65000" />
+      <workItem from="1775341500351" duration="53000" />
+      <workItem from="1775341571290" duration="100000" />
+      <workItem from="1775341689596" duration="110000" />
+      <workItem from="1775341826985" duration="90000" />
+      <workItem from="1775341934042" duration="47000" />
+      <workItem from="1775341999422" duration="68000" />
+      <workItem from="1775342084760" duration="72000" />
+      <workItem from="1775342175490" duration="80000" />
+      <workItem from="1775342746257" duration="25000" />
+      <workItem from="1775342865962" duration="222000" />
+      <workItem from="1775343194747" duration="121000" />
+      <workItem from="1775343344847" duration="70000" />
+      <workItem from="1775343436221" duration="284000" />
+      <workItem from="1775343797825" duration="41000" />
+      <workItem from="1775343857258" duration="61000" />
+      <workItem from="1775344002560" duration="71000" />
+      <workItem from="1775344188303" duration="32000" />
+      <workItem from="1775344501759" duration="107000" />
+      <workItem from="1775344647700" duration="35000" />
+      <workItem from="1775344796031" duration="39000" />
+      <workItem from="1775344942881" duration="26000" />
+      <workItem from="1775344986569" duration="247000" />
+      <workItem from="1775345250275" duration="657000" />
+      <workItem from="1775347265679" duration="140000" />
+      <workItem from="1775351067616" duration="63000" />
+      <workItem from="1775351422939" duration="62000" />
+      <workItem from="1775352358873" duration="249000" />
+      <workItem from="1775352727408" duration="349000" />
+      <workItem from="1775353146968" duration="173000" />
+      <workItem from="1775353401884" duration="172000" />
+      <workItem from="1775353610329" duration="671000" />
+      <workItem from="1775354335995" duration="117000" />
+      <workItem from="1775354512870" duration="188000" />
+    </task>
+    <task id="LOCAL-00001" summary="create">
+      <option name="closed" value="true" />
+      <created>1774976003509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774976003509</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix">
+      <option name="closed" value="true" />
+      <created>1774976034434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774976034434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

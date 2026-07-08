@@ -66,7 +66,7 @@ OpenLowCode 是一个功能强大的代码自动生成系统，支持从数据�
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/opencode.git
+git clone https://github.com/qoobots/opencode.git
 cd opencode
 ```
 
@@ -210,8 +210,8 @@ A: 在 `DBType.java` 中添加数据库类型配置，并实现对应的 Mapper 
 
 ## 联系方式
 
-- 项目主页：http://www.bltu.net
-- 问题反馈：[GitHub Issues](https://github.com/yourusername/opencode/issues)
+- 项目主页：http://www.qoobot.com
+- 问题反馈：[GitHub Issues](https://github.com/qoobots/opencode/issues)
 
 ## 更新日志
 
